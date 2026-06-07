@@ -1,6 +1,6 @@
 Hello I am givbd  \
 Also known as tyslkdjkd  \
-I can code in C, assembly, and python and I know some advanced mathematics  \
+I can code in C, assembly, and python and I know some advanced mathematics
 
 <!--
 **givbd/givbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
