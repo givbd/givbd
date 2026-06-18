@@ -1,7 +1,7 @@
 Hello I am givbd  \
 Also known as tyslkdjkd  \
 I can code in C, assembly, and python and I know some mathematics \ 
-Can do roblox development aswell \ 
+Can do roblox development aswell
 
 
 <!--
